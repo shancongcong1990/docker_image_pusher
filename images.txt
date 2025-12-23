@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform linux/arm64 xiaoyaliu/alist
 --platform linux/arm64 arm64v8/mysql:8.0.44
 --platform linux/arm64 arm64v8/busybox:latest
+--platform linux/arm64 openjdk:8-jdk-alpine
