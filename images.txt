@@ -9,4 +9,4 @@
 #--platform linux/arm64 arm64v8/openjdk:8-jdk-alpine
 #--platform linux/arm64 mysql:5.7.43
 #--platform linux/arm64 flannel:0.13.0
---platform linux/arm64 liveness:latest
+--platform linux/arm64 liveness:1.2
